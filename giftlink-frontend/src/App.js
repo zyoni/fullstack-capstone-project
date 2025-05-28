@@ -15,7 +15,7 @@ function App() {
           <Route path="/" element={<MainPage />} />
           <Route path="/app" element={<MainPage />} />
         </Routes>
-        </>
+    </>
   );
 }
 
