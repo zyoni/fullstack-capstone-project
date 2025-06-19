@@ -1,0 +1,10 @@
+{
+  "esversion": 8,
+  "browser": true,
+  "node": true,
+  "asi": true,
+  "laxbreak": true,
+  "laxcomma": true,
+  "validthis": true,
+  "eqnull": true
+}
